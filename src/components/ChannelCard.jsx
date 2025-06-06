@@ -34,6 +34,7 @@ const ChannelCard = ({ channelDetail, marginTop }) => (
             {parseInt(channelDetail?.statistics?.subscriberCount).toLocaleString('en-US')} Subscribers
           </Typography>
         )}
+        
       </CardContent>
     </Link>
   </Box>
