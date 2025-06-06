@@ -6,7 +6,8 @@ const Loader = () =>  (
     <Stack direction='row' justifyContent='center' alignItems='center' height='80vh' >
       <CircularProgress />
     </Stack>
-  </Box>
+  </Box>//cbdsjbfj
+  
 );
 
 export default Loader;
